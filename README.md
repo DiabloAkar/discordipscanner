@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/805191051316297759/895431920605872200/diabloakar.gif" width="500" />
 
 ## How to use?
-1. Install Python 3.10
+1. Install Python 3.10 (with a path)
 2. Open terminal
 3. Open by typing `python diablo.py`
 4. Select your server.
