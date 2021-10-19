@@ -29,9 +29,9 @@
 # My Social Media Acc:
 
 - [AkarGang Discord](https://discord.gg/DDcXf472BF) My discord address
-- [Instagram](https://github.com/YusufAkartr) My Instagram address
-- [Youtube](https://github.com/BunyaminEfe) My Youtube address
-
+- [Instagram](https://instagram.com/diabloakar) My Instagram address
+- [Youtube](https://www.youtube.com/channel/UCsNTY2G3WUQgUt3QHMWgBoQ) My Youtube address
+- 
 -  **"If you have any questions, feel free to ask.."** 
 
 
