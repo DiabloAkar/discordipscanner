@@ -28,7 +28,7 @@
 
 # My Social Media Acc:
 
-- [AkarGang Discord](https://discord.gg/DDcXf472BF) My discord address
+- [AkarGang Discord](https://discord.gg/6zWuHBmxvX) My discord address
 - [Instagram](https://instagram.com/diabloakar) My Instagram address
 - [Youtube](https://www.youtube.com/channel/UCsNTY2G3WUQgUt3QHMWgBoQ) My Youtube address
 - 
